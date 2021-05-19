@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo. Java Git.");
 		System.out.println("Hola mundo. Java Git1.");
+		System.out.println("Pruebas Git. Se añade cambio1.");
 	}
 
 }
